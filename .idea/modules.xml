@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pricing-tool-core/pricing-tool-core.iml" filepath="$PROJECT_DIR$/pricing-tool-core/pricing-tool-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pricing-tool-dto/pricing-tool-dto.iml" filepath="$PROJECT_DIR$/pricing-tool-dto/pricing-tool-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pricing-tool-service.iml" filepath="$PROJECT_DIR$/pricing-tool-service.iml" />
+    </modules>
+  </component>
+</project>
